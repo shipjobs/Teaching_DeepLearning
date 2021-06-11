@@ -49,7 +49,7 @@
 
 ## Contacts
 
-* 관련 이슈는 이곳에 등록 하여 주시기 바랍니다.
+* 관련 이슈는 이곳에 등록 하여 주시기 바랍니다. (https://github.com/shipjobs/Teaching_DeepLearning/issues )
 
 ---
 
