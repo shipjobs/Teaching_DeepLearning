@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 
-* 목적 : 주요 Deep Learning 모델별 Vanilla Netwotk 을  구성하여 각 모델의 특징을 이해 하는돕고자 함.
+* 목적 : 주요 Deep Learning 모델별 Vanilla Netwotk 을  구성하여 각 모델의 이해를 도움
 * 작성자 : Insung-Lee (https://shippauljobs.blogspot.com/ )
 * 작성일 : 2021.06.10 ~
 * 교육 대상: Deep Learning 을 학습 하고자 하는 ML 경험자 또는 Python 중급 이상자  (또는 임직원)
