@@ -22,23 +22,23 @@ from DataMng import *  #각 모델에 요구되는 Data 구성
 while True:
     print()
     print("-----------------------------------------------------")
-    print("------ShipJob DL 모델 학습기 (insung-Lee)-------------")   
-    print("[1]. RNN  [2]. GRU  [3]. LSTM")  
-    print("[4]. CNN  [5]. GAN  ")  
-    print("[6]. DQN  ") 
-    print("[7]. Exit")
+    print("------ShipJobs 신경망 학습기 (insung-Lee)-------------")   
+    print("자연어 처리 [1]. RNN  [2]. GRU  [3]. LSTM")  
+    print("컴퓨터 비전 [4]. CNN  [5]. GAN  ")  
+    print("강화   학습 [6]. DQN  ") 
+    print("종료   하기 [7]. Exit")
     print("-----------------------------------------------------------")
    
     menu = int(input(">>>>> select: "))
     if menu   == 1:
-        print(">>>>> Selected RNN Model <<<<<")  # 시계열
-        # 학습 데이터 요청 선택
-        # RNN 모델 지정..
-        # RNN 학습 수행
+        print(">>>>> Selected RNN Model <<<<<")  # 시계열        
+        # 학습 데이터 - 1: 문장 , 2 : 대화 목록 파일 선택
+        # RNN 모델 생성
+        # RNN 학습 수행 Train
+        # TEST
         # RNN 학습 현황 가시화
         # RNN 결과 보기  , 그래프 보기
-        # 학습 이미지 출력?(저장)
-        
+        # 학습 이미지 출력?(저장)  - 반복?        
         pass
     elif menu == 2:
         print(">>>>> Selected GRU Model <<<<<")  #  "  개선
