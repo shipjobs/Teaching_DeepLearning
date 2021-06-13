@@ -11,12 +11,11 @@
 
 ## 내 용
 
+* 주요 Deep Learning Vanilla Network 모델 자동 학습기를 만드는 과정 수행
 * Deep Learning 강의 (실습 코드) 코드 구성
-
   * 자연어, 이미지, 강화학습별 각 대표 Vanilla 모델을 기준으로 하며
-  * 이번 강의 이후 각 모델별 Familly 를 구현 함
+  * 각 모델별 Familly 코드는, 이번 강의 이후 별도의 프로젝트로 수행할 계획
 * 실습 모델  
-
   * RNN
   * GRU
   * LSTM
@@ -24,8 +23,7 @@
   * GAN
   * DQN
 
-## 실행  
-    print("-----------------------------------------------------")
+* 모델 실행  
     print("------ShipJob DL 모델 학습기 (insung-Lee)-------------")   
     print("[1]. RNN  [2]. GRU  [3]. LSTM")  
     print("[4]. CNN  [5]. GAN  ")  
