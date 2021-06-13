@@ -26,10 +26,11 @@
 * 모델 실행  
     print("------ShipJob DL 모델 학습기 (insung-Lee)-------------")   
     
-    print("[1]. RNN  [2]. GRU  [3]. LSTM")  
-    print("[4]. CNN  [5]. GAN  ")  
-    print("[6]. DQN  ")    
-    print("[7]. Exit")
+    print("------ShipJobs 신경망 학습기 (insung-Lee)-------------")   
+    print("자연어 처리 [1]. RNN  [2]. GRU  [3]. LSTM")  
+    print("컴퓨터 비전 [4]. CNN  [5]. GAN  ")  
+    print("강화   학습 [6]. DQN  ") 
+    print("종료   하기 [7]. Exit")
     
     print("------------------------------------------------------")
 ---
