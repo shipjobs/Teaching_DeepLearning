@@ -1,5 +1,4 @@
 CUDA_VISIBLE_DEVICES=4
-INFO:root:Namespace(accumulate=2, batch_size=64, dev_batch_size=8, epochs=5, gpu=True, init_param='/root/gfs/gogamza/korean_bert_pre_trained/mxnet_model/korbert_model_054_00003271.params', log_interval=10, lr=5e-05, max_len=512, optimizer='bertadam', seed=2, tokenizer='/root/gfs/gogamza/korean_bert_pre_trained/tokenizer/tokenizer.model', vocab_file='/root/gfs/gogamza/korean_bert_pre_trained/vocabs/news_wiki_2019_small_bertvocab.json', warmup_ratio=0.1)
 INFO:root:Using gradient accumulation. Effective batch size = 128
 INFO:root:[Epoch 0 Batch 20/2349] loss=0.6985, lr=0.0000009, acc=0.521
 INFO:root:[Epoch 0 Batch 40/2349] loss=0.6912, lr=0.0000017, acc=0.525
