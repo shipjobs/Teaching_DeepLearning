@@ -22,7 +22,7 @@ from DataMng import *  #각 모델에 요구되는 Data 구성
 while True:
     print()
     print("-----------------------------------------------------")
-    print("------ShipJob DL 모델 학습기 (insung-Lee)-------------")   
+    print("------ShipJob 신경망 model 학습기 (insung-Lee)-------------")   
     print("[1]. RNN  [2]. GRU  [3]. LSTM")  
     print("[4]. CNN  [5]. GAN  ")  
     print("[6]. DQN  ") 
