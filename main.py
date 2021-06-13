@@ -21,21 +21,11 @@ from DataMng import *  #각 모델에 요구되는 Data 구성
 
 while True:
     print()
-    print("-----------------------------------------------------")
-<<<<<<< HEAD
     print("------ShipJobs 신경망 학습기 (insung-Lee)-------------")   
     print("자연어 처리 [1]. RNN  [2]. GRU  [3]. LSTM")  
     print("컴퓨터 비전 [4]. CNN  [5]. GAN  ")  
     print("강화   학습 [6]. DQN  ") 
     print("종료   하기 [7]. Exit")
-=======
-    print("------ShipJob 신경망 model 학습기 (insung-Lee)-------------")   
-    print("[1]. RNN  [2]. GRU  [3]. LSTM")  
-    print("[4]. CNN  [5]. GAN  ")  
-    print("[6]. DQN  ") 
-    print("[7]. Exit")
->>>>>>> f2735233a6709b4f94df1fa8967eeddae3ec6423
-    print("-----------------------------------------------------------")
    
     menu = int(input(">>>>> select: "))
     if menu   == 1:
